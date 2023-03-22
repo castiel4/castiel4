@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 Contacte-me através do meu email: Bergsson.davi@gmail.com
  
-
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-vitor-martins-bezerra-634767257/">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=castiel4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castiel4&layout=compact&langs_count=7&theme=dracula"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zeppelito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeppelito&layout=compact&langs_count=7&theme=dark"/>
 </div>
